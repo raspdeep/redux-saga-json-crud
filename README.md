@@ -26,7 +26,7 @@ You may also see any lint errors in the console.
 
 Runs a json-server listening to port 5000. Please install json-server by visiting
 https://www.npmjs.com/package/json-server for more detail.
-Open[http://localhost:5000/users] to view JSON Users detail.
+Open [http://localhost:5000/users] to view JSON Users detail.
 
 ### `npm run build`
 
