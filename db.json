@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Jdub",
+      "email": "jdub@gmail.com",
+      "phone": "24238768",
+      "address": "UK",
+      "id": 1
+    },
+    {
+      "name": "james",
+      "email": "james@gmail.com",
+      "phone": "93432340",
+      "address": "USA",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "phone": "99999999",
+      "address": "USA",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
